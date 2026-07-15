@@ -95,6 +95,11 @@ The project is structured into two main directories:
 - Access the application at `http://localhost:5173`.
 - Use the frontend interface to interact with the different modules (Customer, Doctor, Lab Assistant).
 
+## Collaborators
+
+-Gautam Kumar Yadav
+-Kamlesh Chaudhury
+-Pranjal Rai
 
 ## Collaboration
 
