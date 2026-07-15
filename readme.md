@@ -97,9 +97,9 @@ The project is structured into two main directories:
 
 ## Collaborators
 
--Gautam Kumar Yadav
--Kamlesh Chaudhury
--Pranjal Rai
+- Gautam Kumar Yadav
+- Kamlesh Chaudhury
+- Pranjal Rai
 
 ## Collaboration
 
